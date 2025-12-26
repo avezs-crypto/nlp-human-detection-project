@@ -15,4 +15,4 @@ Try the live demo of the model here: [(https://nlp-human-detection-project-ay6gp
   3. pip install -r requirements.txt
   4. streamlit run app.py
 
-- Or visit the live demo: [(https://nlp-human-detection-project-ay6gph7steftydhfdssyzw.streamlit.app/)
+- Or visit the live demo: [(https://nlp-human-detection-project-ay6gph7steftydhfdssyzw.streamlit.app/)]
